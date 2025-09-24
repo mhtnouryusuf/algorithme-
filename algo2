@@ -39,8 +39,7 @@ int main() {
             cout << p << "^" << count << " ";
     }
 
-    if (n > 1) cout << n << "^1"; // если осталось простое число
-    cout << endl;
+    if (n > 1) cout << n << "^1"; 
 
     return 0;
 }
